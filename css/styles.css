@@ -1,0 +1,25 @@
+body{
+  background-color:#D3DEDC;
+}
+hr{
+   border-style:none;
+   border-top-style:dotted;
+   border-color: grey;
+   border-width: 10px;
+   width: 10%;
+  }
+  h1{  color:#66BFBF;
+  }
+
+  h3{
+    color:#66BFBF;
+  }
+  #discription{
+    color:#1572A1;
+  }
+  .edu{border: solid;
+    color: #1572A1;
+  border-color:#66BFBF; }
+  #skills{border: solid;
+  border-color: #66BFBF;}
+.list{color: #1572A1; }
